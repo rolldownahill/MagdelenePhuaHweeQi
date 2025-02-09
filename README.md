@@ -1,2 +1,2 @@
-# MagdelenPhuaHweeQi
+# MagdelenePhuaHweeQi
 se100 heicoders assignments
